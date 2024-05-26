@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+  }
+  ul{
+    list-style: none;
+    overflow: hidden;
+    background-color: rgb(25, 90, 63);
+    width: 100%;
+    height: 85px;
+    
+  }
+  li{
+    margin-left: 200px;
+    padding: 0%;
+  }
+  li a{
+    display: block;
+    color: antiquewhite;
+    text-decoration: none;
+    float:left;
+    padding: 7px 9px;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  .rome{
+    background-color: white;
+    color: rgb(25,90,63);
+    font-weight: bold;
+    height: 90px;
+    padding: 35px;
+  }
+  #new{
+    margin-left: 55px;
+  margin-top: 30px;
+  }
+  #new1{
+  margin-top: 30px;
+  margin-left: 200px;
+  }
+  #new2{
+  margin-top: 30px;
+  margin-left: 55px;
+  }
+  h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: white;
+    padding-bottom: 85px;
+    display: block;
+   
+  }
+  .first{
+     height: auto;
+     text-align: center;
+     position: relative;
+     bottom: 18px;
+      background-image: url(bg.png);
+     display: block;
+     background-color:rgb(29, 26, 26);
+     background-blend-mode: overlay;
+     background-size: cover;
+     padding:150px;
+     max-width: 100%;
+     max-height:100%;
+     
+    
+     
+  }
+  i{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+  
+  }
+  .second{
+    background-color: rgb(58, 58, 78);
+    padding: 10px;
+    position: relative;
+    bottom: 18px;
+    text-align: center;
+    color: white;
+  }
+  .gone{
+    font-weight: lighter;
+    font-size: 15px;
+    position: relative;
+    bottom:100px;
+  }
+  .contact{
+    font-size: 20px;
+    font-family: sans-serif;
+  position: relative;
+  bottom: 80px;
+  
+  }
+  a{
+    text-decoration: none;
+    color: white;
+    padding: 13px 15px;
+  }
+  .footer{
+    font-family: sans-serif;
+  }
+  .start{
+     margin-right: 120px;
+  }
+  .stop{
+    margin-left: 120px;
+  }
